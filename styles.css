@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(134, 104, 28);
+    font-style: italic;
+    font-weight: bold;
+}
+
+h1 {
+    color: gold;
+}
+
+img {
+    width: 400px;
+    display: block;
+}
+
+li {
+    margin-top: 20px;
+    list-style: none;
+}
+
+a {
+    color: gold;
+}
+
+
